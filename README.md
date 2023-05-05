@@ -1,5 +1,5 @@
-# Feishu-OpenAI-Sheet-Analyzer
-💡 通过OpenAI技术驱动的飞书机器人，突破Token长度限制，智能分析表格数据。
+# Feishu-OpenAI-Base-Helper
+💡 通过OpenAI驱动的飞书多维表格助手
 
 ## 目标
 * 读取飞书的excel文档，并生成矢量数据到数据库
